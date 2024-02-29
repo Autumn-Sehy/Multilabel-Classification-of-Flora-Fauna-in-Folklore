@@ -21,7 +21,7 @@ It’s my goal to make this field of study more credible and accessible using CL
 
 
 
-*My write-up from 2023 is in the repository if you are curious for more results,but folktales were classifiable with high (85% and above) accuracy, while mammal features had a very low (10% ~ 20% accuracy)* 
+*My write-up from 2023 is in the repository if you are curious for more results, but folktales using basic bigram features were classifiable with high (85% and above) accuracy, while mammal features had a very low (10% ~ 20% accuracy)* 
 
 *Now the project is in annotation development stages. We are collecting better datasets, writing guidelines, and reading LOTS Of folklore.
 
