@@ -1,5 +1,6 @@
-***The files here are from my 2023 iteration of this project, which I've developed extensively since***
-***PLEASE see the updated folklore capstone page for better code - this code reflects my coding ability from when I created it, which has greatly improved***
+***The files here are from my 2023 iteration of this project, which I've developed extensively since.***
+
+***PLEASE SEE THE UPDATED FOLKLORE CAPSTONE FOR BETTER CODE - this code reflects my coding ability from when I created it, which has greatly improved.***
 
 Why this project?
 Stories describe the world around us: the monomyth of the coyote teaches rose hip toxicity across the American Plains, 
