@@ -8,4 +8,4 @@ and the festival of Tanabata marks the end of the monsoon season through the ann
 This method of information-sharing can be extractable en-masse using modern NLP tools.
 I wanted to use my anthropology, literature, and naturalist backgrounds to explore folklore data to research this information.
  
-*My write-up from 2023 is in the repository if you are curious for more results, but folktales using basic bigram features were classifiable with high (85% and above) accuracy, while mammal features had a very low (10% ~ 20% accuracy)* 
+*My write-up from 2023 is in the repository if you are curious for results, but folktales using basic bigram features were classifiable with high (85% and above) accuracy, while mammal features had a very low (10% ~ 20% accuracy)* 
